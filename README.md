@@ -4,3 +4,8 @@
 - 👀 Estou interessada em aprender a programar novas linguagens.
 - :+1: Estou aprendendo a programar recentemente a linguagem JavaScript e Scratch. 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" width="40" height="40"/> 
+
