@@ -1,8 +1,9 @@
 # Sobre mim
 
 - 👋 Olá, meu nome é **@TatianeAbreu**
-- 👀 Estou interessada em aprender e programar novas linguagens.
-- :+1: Estou aprendendo a programar recentemente a linguagem JavaScript, HTML5, CSS3 e Scratch. 
+- 👀 Estou interessada em aprender e programar novas linguagens de programação.
+- :+1: Estou aprendendo a programar recentemente a linguagem JavaScript, HTML5, CSS3 e Scratch.
+- :+1: Leciono Robótica Educacional e Robótica Primeiros Passos. 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" width="40" height="40"/> 
 <img src="https://img.shields.io/badge/Scratch-4D97FF?stylhttps://github.com/IsaacAlves7/javascript-programming.pnge=for-the-badge&logo=Scratch&logoColor=white" />
